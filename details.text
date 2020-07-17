@@ -1,0 +1,88 @@
+Music Streamer
+
+Develop an application to stream the music for the music lovers. The users should be registered users.
+Modules:
+Admin Modules to manage the user personal data as part of registration, manage music database etc.
+To End users provide music at least in four languages. Allow the users to manage music language,
+category, favorites, downloads within the app and app local store. Manage the recent and history of the
+music’s listen by the users.
+The application should have a best UI/UX platform.
+Tech Stack: Use Java Full stack by your choice, REST APIs to expose the pattern services, JS based
+framework for UI and SQL/NOSQL DB.
+
+
+
+
+
+
+
+
+
+
+Core Platform
+
+Java 8
+
+Presentation Layer
+
+HTML5, JSP, BootStrap, JSTL,CSS3,jQuery
+
+Server Side Layer
+
+HTTP Servlets
+
+(Layer Adoption Servlets à Service Façade à Service Components à Data Components)
+
+ 
+
+DTO for Data Transfers
+
+ 
+
+Exception Handling & Logger
+
+Adopt the usage of Generics, Optionals, Java Collections with Streams Support, Functional Programming etc
+
+Hikari CP Data Source for DB Connection Pooling
+
+Efficient & Smart SQL with Joins, Nested Queries, Optimized Filtering Conditions
+
+ 
+
+Usage of Index for faster data access
+
+ 
+
+PLSQL or Stored Procedures for any long running processes
+
+Database
+
+MySQL 5+
+
+Front End Behavior
+
+Browser Based Application (w) Responsive Behavior
+
+Servlet Container
+
+Tomcat 8.5.56 +
+
+Compatible Browsers
+
+Google Chrome, Mozilla FF, IE Edge (latest)
+
+IDE
+
+Eclipse STS 4
+
+Build Management
+
+Maven 3
+
+
+
+
+
+
+
+
